@@ -1498,3 +1498,4 @@ C:\Users\gamer\Desktop\UNI YR 3\UNI YR 3\T2\2 Wed PM Int Scripting\Code\Coursewo
 C:\Users\gamer\Desktop\UNI YR 3\UNI YR 3\T2\2 Wed PM Int Scripting\Code\CourseworkTwo Working\project\ChinookAlbumManager\obj\Debug\net8.0\refint\ChinookAlbumManager.dll
 C:\Users\gamer\Desktop\UNI YR 3\UNI YR 3\T2\2 Wed PM Int Scripting\Code\CourseworkTwo Working\project\ChinookAlbumManager\obj\Debug\net8.0\ChinookAlbumManager.pdb
 C:\Users\gamer\Desktop\UNI YR 3\UNI YR 3\T2\2 Wed PM Int Scripting\Code\CourseworkTwo Working\project\ChinookAlbumManager\obj\Debug\net8.0\ref\ChinookAlbumManager.dll
+C:\Users\gamer\Desktop\UNI YR 3\UNI YR 3\T2\2 Wed PM Int Scripting\Code\CourseworkTwo Working\project\ChinookAlbumManager\obj\Debug\net8.0\ChinookAlbumManager.sourcelink.json
