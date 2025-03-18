@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "ChinookAlbumManager",
   "resources": {
-    "hash": "sha256-MY+ZHvpOR53GkXaz42snc8J8vtNHRsgATqbIZEMAEpM=",
+    "hash": "sha256-WpyZ2X75PKk3EUz5zf8nrkGHtbry+sE53AZhfFn9YRU=",
     "jsModuleNative": {
       "dotnet.native.js": "sha256-B6DNRvFeCUi3jbx9uKpuj+hV9cN0KG4RdZj1FgBZwj8="
     },
@@ -41,17 +41,17 @@
       "Microsoft.EntityFrameworkCore.Sqlite.wasm": "sha256-mz0+IttI+TzdFoEQGtoiWASsiHQ8qqtgkoLtPj/J2rY=",
       "Microsoft.Extensions.Caching.Abstractions.wasm": "sha256-DvWgaIA0uDutliQxlvz6frIH7CVryT1atsA5PjbyrME=",
       "Microsoft.Extensions.Caching.Memory.wasm": "sha256-KN9t0ySkKAB7AesUNB9HOLYPRDqQVhglaUVUQlJLvT8=",
-      "Microsoft.Extensions.Configuration.wasm": "sha256-UDGEQR7J3WTfzYMgOzxVIBwFQtKEeJvO8UgrWagypdE=",
+      "Microsoft.Extensions.Configuration.wasm": "sha256-sciJLAYt4GJPqmIUSPHThPL2URsHMF3hMcHzrEbZTtU=",
       "Microsoft.Extensions.Configuration.Abstractions.wasm": "sha256-B3M3HjCAnxLQzJKZoppPR3yxzvQ+p3owrrkxGJO+F24=",
       "Microsoft.Extensions.Configuration.Binder.wasm": "sha256-fNNlyyW44y8Gp6dvOtsvHoVNzpT8lrKmPleg5CDhRAo=",
-      "Microsoft.Extensions.Configuration.FileExtensions.wasm": "sha256-SrAtaND/3+ZSfueBc9meuKzyFgcamyVA581L4R7Amzs=",
-      "Microsoft.Extensions.Configuration.Json.wasm": "sha256-CtLsl9w5UTJXGXTbp+SQxMzt9f/gjQ4EkywrtuCscvU=",
+      "Microsoft.Extensions.Configuration.FileExtensions.wasm": "sha256-4sQ96YERDyQuwcHze6gJBPaANfew4Fy8uyIpYP8s16s=",
+      "Microsoft.Extensions.Configuration.Json.wasm": "sha256-ANA0RME7z0cwmMztDBcsUtC6Ys8wvEls5pbogL4lQrc=",
       "Microsoft.Extensions.DependencyInjection.wasm": "sha256-3eEIBDl2jhg+1WaMD5wXTWqhKgVxixmPHqhJF/V7W0g=",
       "Microsoft.Extensions.DependencyInjection.Abstractions.wasm": "sha256-cCDglwo5MpbHRg55wO33EH1EwvlZJypdukydrTOrLqE=",
       "Microsoft.Extensions.DependencyModel.wasm": "sha256-GsFjJT5Pqju/6zU/qzvetrSNDjHu6a1j0PpmQZTjwx4=",
-      "Microsoft.Extensions.FileProviders.Abstractions.wasm": "sha256-IUopixuV8E09mP+TIgRp/lXEbeacXbUTW7cu0v5B9Tc=",
-      "Microsoft.Extensions.FileProviders.Physical.wasm": "sha256-MS+zB0xkKhKk/QdE32ZwKtdlrLMLI/y2NAKPUWhcBVg=",
-      "Microsoft.Extensions.FileSystemGlobbing.wasm": "sha256-AnWUKd0qJ8ZNKkRC0AFK2cjjszB7reXiP+bXdIi8bic=",
+      "Microsoft.Extensions.FileProviders.Abstractions.wasm": "sha256-BxTjzb79jdXfrMQxNtPaBEdSOzOW6U7iNwfKYgyg/Fk=",
+      "Microsoft.Extensions.FileProviders.Physical.wasm": "sha256-zzpEhWC/4CTrIgu/Zh0sKuu3DhBYUMFdQJ9hKlRNnAU=",
+      "Microsoft.Extensions.FileSystemGlobbing.wasm": "sha256-MVkXCt9KaWtjNUUwE0tkfmz3nqY9LkIwanXZD9NSW4k=",
       "Microsoft.Extensions.Logging.wasm": "sha256-3T6hLozhBHPHALKrgisNVQKqKwStxG3cT2QizzjVG2w=",
       "Microsoft.Extensions.Logging.Abstractions.wasm": "sha256-dS1fqV7JBxP41uqRSR6v+JzdN6XbSA8wO1cJr6HewYM=",
       "Microsoft.Extensions.Options.wasm": "sha256-Dlw1o7pusrN6iDP/MErzoTAQHy+8PaUPlX022TvlJXE=",
@@ -237,10 +237,10 @@
       "mscorlib.wasm": "sha256-QoC5hTKpDNO6efLnEvYwV9OJBXvYRq8/1yGhNZKiNCw=",
       "netstandard.wasm": "sha256-JT2F4bYWJpaSGq+iD0ITLpWxsDhMUjhqje9RpBtTg7w=",
       "System.Private.CoreLib.wasm": "sha256-fvIPBcvgvsRuWrKi2LGQsLYvcKUSnyIuBUsE3LJu/0Y=",
-      "ChinookAlbumManager.wasm": "sha256-qCrS5gFYG3sFvU+afkpLBzDbpuJgBrn0zQTT7ZY0bKg="
+      "ChinookAlbumManager.wasm": "sha256-GNLAS6RKr82R59J7pmq50wIyQksBtC7Bv3xla8nF7eY="
     },
     "pdb": {
-      "ChinookAlbumManager.pdb": "sha256-KTml7QN8+qfm8c+WwRgK67GSLpqS7U0DLVyK/j8uJwQ="
+      "ChinookAlbumManager.pdb": "sha256-bE/blKh9KlXD6CtqHU+zMys27g5EIcmm3xg7zyE+ilI="
     },
     "satelliteResources": {
       "cs": {

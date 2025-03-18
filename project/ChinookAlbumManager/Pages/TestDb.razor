@@ -1,0 +1,61 @@
+@page "/testdb"
+@using ChinookAlbumManager.Data
+@using ChinookAlbumManager.Models
+@using Microsoft.EntityFrameworkCore
+@inject IDbContextFactory<ChinookDbContext> DbFactory
+
+<h3>Album Management</h3>
+
+@if (albums == null)
+{
+    <p><em>Loading albums...</em></p>
+}
+else
+{
+    @if (albums.Count == 0)
+    {
+        <p>No albums to display.</p>
+    }
+    else
+    {
+        <table class="table">
+            <thead>
+                <tr>
+                    <th>Title</th>
+                    <th>Artist ID</th>
+                    <th>Actions</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var album in albums)
+                {
+                    <tr>
+                        <td>@album.Title</td>
+                        <td>@album.ArtistId</td>
+                        <td>
+                            <!-- Action buttons can go here (e.g., edit, delete) -->
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    }
+}
+
+@code {
+    private List<Album> albums;
+
+    protected override async Task OnInitializedAsync()
+    {
+        try
+        {
+            using var context = DbFactory.CreateDbContext();
+            albums = await context.Albums.ToListAsync();  // This fetches all the albums
+        }
+        catch (Exception ex)
+        {
+            Console.WriteLine("Error loading albums: " + ex.Message);
+            albums = new List<Album>();  // Set to empty list to avoid null references
+        }
+    }
+}
