@@ -2710,12 +2710,12 @@ C:\Users\gamer\Desktop\CourseworkTwo-Working\project\ChinookAlbumManager\obj\Deb
 C:\Users\gamer\Desktop\CourseworkTwo-Working\project\ChinookAlbumManager\obj\Debug\net8.0\compressed\8tu3ffjxsl-9ctfoqeok7.gz
 C:\Users\gamer\Desktop\CourseworkTwo-Working\project\ChinookAlbumManager\obj\Debug\net8.0\compressed\al8pbebhf5-qtkv7zmmx7.gz
 C:\Users\gamer\Desktop\CourseworkTwo-Working\project\ChinookAlbumManager\obj\Debug\net8.0\compressed\ll6ek1si2h-q7dusk3ciy.gz
-C:\Users\gamer\Desktop\CourseworkTwo-Working\project\ChinookAlbumManager\obj\Debug\net8.0\compressed\vbj8nq2xob-ufhdbpu3cy.gz
+C:\Users\gamer\Desktop\CourseworkTwo-Working\project\ChinookAlbumManager\obj\Debug\net8.0\compressed\vbj8nq2xob-9blije4i8r.gz
 C:\Users\gamer\Desktop\CourseworkTwo-Working\project\ChinookAlbumManager\obj\Debug\net8.0\compressed\1xpjj91gab-yg32fui4sc.gz
 C:\Users\gamer\Desktop\CourseworkTwo-Working\project\ChinookAlbumManager\obj\Debug\net8.0\compressed\3at03vp0az-owom3jbuvh.gz
 C:\Users\gamer\Desktop\CourseworkTwo-Working\project\ChinookAlbumManager\obj\Debug\net8.0\compressed\fb0oq88ejk-dinr14508o.gz
 C:\Users\gamer\Desktop\CourseworkTwo-Working\project\ChinookAlbumManager\obj\Debug\net8.0\compressed\akjblsi4c7-9pu5xsb1o8.gz
-C:\Users\gamer\Desktop\CourseworkTwo-Working\project\ChinookAlbumManager\obj\Debug\net8.0\compressed\pdhmc1t3x8-tmf1h3mnmx.gz
+C:\Users\gamer\Desktop\CourseworkTwo-Working\project\ChinookAlbumManager\obj\Debug\net8.0\compressed\pdhmc1t3x8-xcq4r14jch.gz
 C:\Users\gamer\Desktop\CourseworkTwo-Working\project\ChinookAlbumManager\obj\Debug\net8.0\compressed\3bqawafm8v-aq4cwetmvc.gz
 C:\Users\gamer\Desktop\CourseworkTwo-Working\project\ChinookAlbumManager\obj\Debug\net8.0\compressed\ua4n3fwx91-4h8pc7uk52.gz
 C:\Users\gamer\Desktop\CourseworkTwo-Working\project\ChinookAlbumManager\obj\Debug\net8.0\compressed\kfu013ca5f-577tjrwbch.gz
@@ -2736,9 +2736,9 @@ C:\Users\gamer\Desktop\CourseworkTwo-Working\project\ChinookAlbumManager\obj\Deb
 C:\Users\gamer\Desktop\CourseworkTwo-Working\project\ChinookAlbumManager\obj\Debug\net8.0\compressed\z538lp83fl-0bb0yv8d29.gz
 C:\Users\gamer\Desktop\CourseworkTwo-Working\project\ChinookAlbumManager\obj\Debug\net8.0\compressed\moyo8u0hpl-snl94izhmy.gz
 C:\Users\gamer\Desktop\CourseworkTwo-Working\project\ChinookAlbumManager\obj\Debug\net8.0\compressed\trwj0ix9mb-kzb422hul9.gz
-C:\Users\gamer\Desktop\CourseworkTwo-Working\project\ChinookAlbumManager\obj\Debug\net8.0\compressed\bbw9nd5he0-3v5whd3evz.gz
-C:\Users\gamer\Desktop\CourseworkTwo-Working\project\ChinookAlbumManager\obj\Debug\net8.0\compressed\e7cbt5z9gw-1iu403apcu.gz
-C:\Users\gamer\Desktop\CourseworkTwo-Working\project\ChinookAlbumManager\obj\Debug\net8.0\compressed\yqrrbma15z-uxqvbkxd4r.gz
+C:\Users\gamer\Desktop\CourseworkTwo-Working\project\ChinookAlbumManager\obj\Debug\net8.0\compressed\bbw9nd5he0-7nwzpkdtm1.gz
+C:\Users\gamer\Desktop\CourseworkTwo-Working\project\ChinookAlbumManager\obj\Debug\net8.0\compressed\e7cbt5z9gw-artp1p3dts.gz
+C:\Users\gamer\Desktop\CourseworkTwo-Working\project\ChinookAlbumManager\obj\Debug\net8.0\compressed\yqrrbma15z-5eqxv4u51m.gz
 C:\Users\gamer\Desktop\CourseworkTwo-Working\project\ChinookAlbumManager\obj\Debug\net8.0\compressed\e1vn16sgv4-d9ed66qd5a.gz
 C:\Users\gamer\Desktop\CourseworkTwo-Working\project\ChinookAlbumManager\obj\Debug\net8.0\compressed\se1uz7978r-u6f4klikz3.gz
 C:\Users\gamer\Desktop\CourseworkTwo-Working\project\ChinookAlbumManager\obj\Debug\net8.0\compressed\1guw9paqs5-eh0eeaxx5m.gz
@@ -2814,7 +2814,7 @@ C:\Users\gamer\Desktop\CourseworkTwo-Working\project\ChinookAlbumManager\obj\Deb
 C:\Users\gamer\Desktop\CourseworkTwo-Working\project\ChinookAlbumManager\obj\Debug\net8.0\compressed\ymhcgmghkp-1xsmcixx8d.gz
 C:\Users\gamer\Desktop\CourseworkTwo-Working\project\ChinookAlbumManager\obj\Debug\net8.0\compressed\r2xj9mx49l-3ye00tift8.gz
 C:\Users\gamer\Desktop\CourseworkTwo-Working\project\ChinookAlbumManager\obj\Debug\net8.0\compressed\wdkfurt1t1-9b0obi86zt.gz
-C:\Users\gamer\Desktop\CourseworkTwo-Working\project\ChinookAlbumManager\obj\Debug\net8.0\compressed\kx2812oi3j-b3r7hahvwm.gz
+C:\Users\gamer\Desktop\CourseworkTwo-Working\project\ChinookAlbumManager\obj\Debug\net8.0\compressed\kx2812oi3j-dtegvks8hk.gz
 C:\Users\gamer\Desktop\CourseworkTwo-Working\project\ChinookAlbumManager\obj\Debug\net8.0\compressed\igziz4v199-e8asq7dbbt.gz
 C:\Users\gamer\Desktop\CourseworkTwo-Working\project\ChinookAlbumManager\obj\Debug\net8.0\compressed\hqognc9i2w-f8y6gpcnrn.gz
 C:\Users\gamer\Desktop\CourseworkTwo-Working\project\ChinookAlbumManager\obj\Debug\net8.0\compressed\yedwb0unbt-h50h5eaf2v.gz
@@ -2990,9 +2990,6 @@ C:\Users\gamer\Desktop\CourseworkTwo-Working\project\ChinookAlbumManager\obj\Deb
 C:\Users\gamer\Desktop\CourseworkTwo-Working\project\ChinookAlbumManager\obj\Debug\net8.0\compressed\s8fq0by6vp-tptq2av103.gz
 C:\Users\gamer\Desktop\CourseworkTwo-Working\project\ChinookAlbumManager\obj\Debug\net8.0\compressed\rejeqq5rxo-lfu7j35m59.gz
 C:\Users\gamer\Desktop\CourseworkTwo-Working\project\ChinookAlbumManager\obj\Debug\net8.0\compressed\dl530m443m-oyz0vx2fzb.gz
-C:\Users\gamer\Desktop\CourseworkTwo-Working\project\ChinookAlbumManager\obj\Debug\net8.0\compressed\od7mh8v01y-o40togf58i.gz
-C:\Users\gamer\Desktop\CourseworkTwo-Working\project\ChinookAlbumManager\obj\Debug\net8.0\compressed\telbm8rx2f-k0czhaj1t9.gz
-C:\Users\gamer\Desktop\CourseworkTwo-Working\project\ChinookAlbumManager\obj\Debug\net8.0\compressed\09ho8oaqb2-893s6tw08q.gz
 C:\Users\gamer\Desktop\CourseworkTwo-Working\project\ChinookAlbumManager\obj\Debug\net8.0\staticwebassets.build.json
 C:\Users\gamer\Desktop\CourseworkTwo-Working\project\ChinookAlbumManager\obj\Debug\net8.0\staticwebassets.development.json
 C:\Users\gamer\Desktop\CourseworkTwo-Working\project\ChinookAlbumManager\obj\Debug\net8.0\staticwebassets.build.endpoints.json
@@ -3007,3 +3004,6 @@ C:\Users\gamer\Desktop\CourseworkTwo-Working\project\ChinookAlbumManager\obj\Deb
 C:\Users\gamer\Desktop\CourseworkTwo-Working\project\ChinookAlbumManager\obj\Debug\net8.0\refint\ChinookAlbumManager.dll
 C:\Users\gamer\Desktop\CourseworkTwo-Working\project\ChinookAlbumManager\obj\Debug\net8.0\ChinookAlbumManager.pdb
 C:\Users\gamer\Desktop\CourseworkTwo-Working\project\ChinookAlbumManager\obj\Debug\net8.0\ref\ChinookAlbumManager.dll
+C:\Users\gamer\Desktop\CourseworkTwo-Working\project\ChinookAlbumManager\obj\Debug\net8.0\compressed\od7mh8v01y-9a9tozw36a.gz
+C:\Users\gamer\Desktop\CourseworkTwo-Working\project\ChinookAlbumManager\obj\Debug\net8.0\compressed\telbm8rx2f-dq7c3blnv0.gz
+C:\Users\gamer\Desktop\CourseworkTwo-Working\project\ChinookAlbumManager\obj\Debug\net8.0\compressed\09ho8oaqb2-uczcy7ggp3.gz
