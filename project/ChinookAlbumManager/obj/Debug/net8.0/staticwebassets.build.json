@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "9g/zkrgmU188kE6h6wQC/4VEX5FhneROGh+hmoeHJxY=",
+  "Hash": "8pHGvMxAWcowtE5HfLiWk6cr18sDC4LyZ6Mqn4MLuMw=",
   "Source": "ChinookAlbumManager",
   "BasePath": "/",
   "Mode": "Root",
@@ -52,8 +52,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "manifest",
-      "Fingerprint": "vu5tuu1sgk",
-      "Integrity": "GRcdogjJl2fwcC0FWBAYntYkcGJjQjE/g2Aqb/F1MxQ=",
+      "Fingerprint": "tjoxundkq0",
+      "Integrity": "iWRYD0GsAm4zztz2rtoh0jq/hHgzjxdNKY7ej7tAuBg=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "obj\\Debug\\net8.0\\blazor.boot.json"
@@ -94,8 +94,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "symbol",
-      "Fingerprint": "qx1oubj8sk",
-      "Integrity": "zjkjOwXSulQMh6h5SuLJron9F1tj2qCA9FCtWdEa+lA=",
+      "Fingerprint": "yh9f8k81xc",
+      "Integrity": "KopLkq4c8/G2A1j4EIRBKhPLFeHiBzjPv5R0DNmlu/M=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "obj\\Debug\\net8.0\\ChinookAlbumManager.pdb"
@@ -115,8 +115,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "runtime",
-      "Fingerprint": "uhxdz7xk3j",
-      "Integrity": "0nlSHeQ6HnAPIDFNjghqRj6/o96BWfeaMShn6N4AXc8=",
+      "Fingerprint": "909n4gkhfj",
+      "Integrity": "WdG7UFCK4YcbaPdgOuCBR8f/AZN+4knjXagMoOaX7FY=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\gamer\\Desktop\\CourseworkTwo-Working\\project\\ChinookAlbumManager\\obj\\Debug\\net8.0\\webcil\\ChinookAlbumManager.wasm"
@@ -6317,7 +6317,7 @@
       "OriginalItemSpec": "C:\\Users\\gamer\\Desktop\\CourseworkTwo-Working\\project\\ChinookAlbumManager\\obj\\Debug\\net8.0\\webcil\\zh-Hant\\Microsoft.CodeAnalysis.Workspaces.resources.wasm"
     },
     {
-      "Identity": "C:\\Users\\gamer\\Desktop\\CourseworkTwo-Working\\project\\ChinookAlbumManager\\obj\\Debug\\net8.0\\compressed\\09ho8oaqb2-vu5tuu1sgk.gz",
+      "Identity": "C:\\Users\\gamer\\Desktop\\CourseworkTwo-Working\\project\\ChinookAlbumManager\\obj\\Debug\\net8.0\\compressed\\09ho8oaqb2-tjoxundkq0.gz",
       "SourceId": "ChinookAlbumManager",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\gamer\\Desktop\\CourseworkTwo-Working\\project\\ChinookAlbumManager\\obj\\Debug\\net8.0\\compressed\\",
@@ -6331,8 +6331,8 @@
       "RelatedAsset": "C:\\Users\\gamer\\Desktop\\CourseworkTwo-Working\\project\\ChinookAlbumManager\\bin\\Debug\\net8.0\\wwwroot\\_framework\\blazor.boot.json",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "hf0gy3ywva",
-      "Integrity": "0ysevvtFToq9FbcUdKQhOQslCO3QRNMhbolXzmpCrQE=",
+      "Fingerprint": "xptk70fpy2",
+      "Integrity": "dWriTP6cOj97nKZaDvP/K3z8rKXGZ7qEXRP/aUiortg=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\gamer\\Desktop\\CourseworkTwo-Working\\project\\ChinookAlbumManager\\bin\\Debug\\net8.0\\wwwroot\\_framework\\blazor.boot.json"
@@ -10286,7 +10286,7 @@
       "OriginalItemSpec": "C:\\Users\\gamer\\Desktop\\CourseworkTwo-Working\\project\\ChinookAlbumManager\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Security.Principal.wasm"
     },
     {
-      "Identity": "C:\\Users\\gamer\\Desktop\\CourseworkTwo-Working\\project\\ChinookAlbumManager\\obj\\Debug\\net8.0\\compressed\\od7mh8v01y-uhxdz7xk3j.gz",
+      "Identity": "C:\\Users\\gamer\\Desktop\\CourseworkTwo-Working\\project\\ChinookAlbumManager\\obj\\Debug\\net8.0\\compressed\\od7mh8v01y-909n4gkhfj.gz",
       "SourceId": "ChinookAlbumManager",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\gamer\\Desktop\\CourseworkTwo-Working\\project\\ChinookAlbumManager\\obj\\Debug\\net8.0\\compressed\\",
@@ -10300,8 +10300,8 @@
       "RelatedAsset": "C:\\Users\\gamer\\Desktop\\CourseworkTwo-Working\\project\\ChinookAlbumManager\\bin\\Debug\\net8.0\\wwwroot\\_framework\\ChinookAlbumManager.wasm",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "sk8r6p58ng",
-      "Integrity": "LH47DnfiozVYPHEvL7GfAeGNwmz98k/dK5AegydxqkM=",
+      "Fingerprint": "kpmyd0rc2u",
+      "Integrity": "iHsumYLnbOLoXS2Ggi6bGW68ddn2ByGJJLn37p4Z9sI=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\gamer\\Desktop\\CourseworkTwo-Working\\project\\ChinookAlbumManager\\bin\\Debug\\net8.0\\wwwroot\\_framework\\ChinookAlbumManager.wasm"
@@ -11294,7 +11294,7 @@
       "OriginalItemSpec": "C:\\Users\\gamer\\Desktop\\CourseworkTwo-Working\\project\\ChinookAlbumManager\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Diagnostics.Debug.wasm"
     },
     {
-      "Identity": "C:\\Users\\gamer\\Desktop\\CourseworkTwo-Working\\project\\ChinookAlbumManager\\obj\\Debug\\net8.0\\compressed\\telbm8rx2f-qx1oubj8sk.gz",
+      "Identity": "C:\\Users\\gamer\\Desktop\\CourseworkTwo-Working\\project\\ChinookAlbumManager\\obj\\Debug\\net8.0\\compressed\\telbm8rx2f-yh9f8k81xc.gz",
       "SourceId": "ChinookAlbumManager",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\gamer\\Desktop\\CourseworkTwo-Working\\project\\ChinookAlbumManager\\obj\\Debug\\net8.0\\compressed\\",
@@ -11308,8 +11308,8 @@
       "RelatedAsset": "C:\\Users\\gamer\\Desktop\\CourseworkTwo-Working\\project\\ChinookAlbumManager\\bin\\Debug\\net8.0\\wwwroot\\_framework\\ChinookAlbumManager.pdb",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "8nvkepiv71",
-      "Integrity": "zHBMywMJRO+0wnxx6GWUIRohikboirvYbvRzvOeaATI=",
+      "Fingerprint": "ggd2nga2ge",
+      "Integrity": "YHg7rX09SZCmyQm0IYNEGiFUnFa7kil/dLuxoMuaq8Q=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\gamer\\Desktop\\CourseworkTwo-Working\\project\\ChinookAlbumManager\\bin\\Debug\\net8.0\\wwwroot\\_framework\\ChinookAlbumManager.pdb"
@@ -12842,11 +12842,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"GRcdogjJl2fwcC0FWBAYntYkcGJjQjE/g2Aqb/F1MxQ=\""
+          "Value": "\"iWRYD0GsAm4zztz2rtoh0jq/hHgzjxdNKY7ej7tAuBg=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 18 Mar 2025 14:00:25 GMT"
+          "Value": "Tue, 18 Mar 2025 14:11:21 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -12856,18 +12856,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-GRcdogjJl2fwcC0FWBAYntYkcGJjQjE/g2Aqb/F1MxQ="
+          "Value": "sha256-iWRYD0GsAm4zztz2rtoh0jq/hHgzjxdNKY7ej7tAuBg="
         }
       ]
     },
     {
       "Route": "_framework/blazor.boot.json",
-      "AssetFile": "C:\\Users\\gamer\\Desktop\\CourseworkTwo-Working\\project\\ChinookAlbumManager\\obj\\Debug\\net8.0\\compressed\\09ho8oaqb2-vu5tuu1sgk.gz",
+      "AssetFile": "C:\\Users\\gamer\\Desktop\\CourseworkTwo-Working\\project\\ChinookAlbumManager\\obj\\Debug\\net8.0\\compressed\\09ho8oaqb2-tjoxundkq0.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000080703737"
+          "Quality": "0.000080677693"
         }
       ],
       "ResponseHeaders": [
@@ -12877,15 +12877,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "12390"
+          "Value": "12394"
         },
         {
           "Name": "ETag",
-          "Value": "\"0ysevvtFToq9FbcUdKQhOQslCO3QRNMhbolXzmpCrQE=\""
+          "Value": "\"dWriTP6cOj97nKZaDvP/K3z8rKXGZ7qEXRP/aUiortg=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 18 Mar 2025 14:00:16 GMT"
+          "Value": "Tue, 18 Mar 2025 14:11:15 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -12905,19 +12905,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"GRcdogjJl2fwcC0FWBAYntYkcGJjQjE/g2Aqb/F1MxQ=\""
+          "Value": "W/\"iWRYD0GsAm4zztz2rtoh0jq/hHgzjxdNKY7ej7tAuBg=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-GRcdogjJl2fwcC0FWBAYntYkcGJjQjE/g2Aqb/F1MxQ="
+          "Value": "sha256-iWRYD0GsAm4zztz2rtoh0jq/hHgzjxdNKY7ej7tAuBg="
         }
       ]
     },
     {
       "Route": "_framework/blazor.boot.json.gz",
-      "AssetFile": "C:\\Users\\gamer\\Desktop\\CourseworkTwo-Working\\project\\ChinookAlbumManager\\obj\\Debug\\net8.0\\compressed\\09ho8oaqb2-vu5tuu1sgk.gz",
+      "AssetFile": "C:\\Users\\gamer\\Desktop\\CourseworkTwo-Working\\project\\ChinookAlbumManager\\obj\\Debug\\net8.0\\compressed\\09ho8oaqb2-tjoxundkq0.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -12926,7 +12926,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "12390"
+          "Value": "12394"
         },
         {
           "Name": "Content-Type",
@@ -12934,11 +12934,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"0ysevvtFToq9FbcUdKQhOQslCO3QRNMhbolXzmpCrQE=\""
+          "Value": "\"dWriTP6cOj97nKZaDvP/K3z8rKXGZ7qEXRP/aUiortg=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 18 Mar 2025 14:00:16 GMT"
+          "Value": "Tue, 18 Mar 2025 14:11:15 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -12956,7 +12956,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-0ysevvtFToq9FbcUdKQhOQslCO3QRNMhbolXzmpCrQE="
+          "Value": "sha256-dWriTP6cOj97nKZaDvP/K3z8rKXGZ7qEXRP/aUiortg="
         }
       ]
     },
@@ -13108,7 +13108,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "24476"
+          "Value": "25116"
         },
         {
           "Name": "Content-Type",
@@ -13116,11 +13116,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"zjkjOwXSulQMh6h5SuLJron9F1tj2qCA9FCtWdEa+lA=\""
+          "Value": "\"KopLkq4c8/G2A1j4EIRBKhPLFeHiBzjPv5R0DNmlu/M=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 18 Mar 2025 14:00:15 GMT"
+          "Value": "Tue, 18 Mar 2025 14:11:15 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -13130,18 +13130,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-zjkjOwXSulQMh6h5SuLJron9F1tj2qCA9FCtWdEa+lA="
+          "Value": "sha256-KopLkq4c8/G2A1j4EIRBKhPLFeHiBzjPv5R0DNmlu/M="
         }
       ]
     },
     {
       "Route": "_framework/ChinookAlbumManager.pdb",
-      "AssetFile": "C:\\Users\\gamer\\Desktop\\CourseworkTwo-Working\\project\\ChinookAlbumManager\\obj\\Debug\\net8.0\\compressed\\telbm8rx2f-qx1oubj8sk.gz",
+      "AssetFile": "C:\\Users\\gamer\\Desktop\\CourseworkTwo-Working\\project\\ChinookAlbumManager\\obj\\Debug\\net8.0\\compressed\\telbm8rx2f-yh9f8k81xc.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000056689342"
+          "Quality": "0.000055716514"
         }
       ],
       "ResponseHeaders": [
@@ -13151,15 +13151,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "17639"
+          "Value": "17947"
         },
         {
           "Name": "ETag",
-          "Value": "\"zHBMywMJRO+0wnxx6GWUIRohikboirvYbvRzvOeaATI=\""
+          "Value": "\"YHg7rX09SZCmyQm0IYNEGiFUnFa7kil/dLuxoMuaq8Q=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 18 Mar 2025 14:00:15 GMT"
+          "Value": "Tue, 18 Mar 2025 14:11:15 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -13179,19 +13179,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"zjkjOwXSulQMh6h5SuLJron9F1tj2qCA9FCtWdEa+lA=\""
+          "Value": "W/\"KopLkq4c8/G2A1j4EIRBKhPLFeHiBzjPv5R0DNmlu/M=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-zjkjOwXSulQMh6h5SuLJron9F1tj2qCA9FCtWdEa+lA="
+          "Value": "sha256-KopLkq4c8/G2A1j4EIRBKhPLFeHiBzjPv5R0DNmlu/M="
         }
       ]
     },
     {
       "Route": "_framework/ChinookAlbumManager.pdb.gz",
-      "AssetFile": "C:\\Users\\gamer\\Desktop\\CourseworkTwo-Working\\project\\ChinookAlbumManager\\obj\\Debug\\net8.0\\compressed\\telbm8rx2f-qx1oubj8sk.gz",
+      "AssetFile": "C:\\Users\\gamer\\Desktop\\CourseworkTwo-Working\\project\\ChinookAlbumManager\\obj\\Debug\\net8.0\\compressed\\telbm8rx2f-yh9f8k81xc.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -13200,7 +13200,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "17639"
+          "Value": "17947"
         },
         {
           "Name": "Content-Type",
@@ -13208,11 +13208,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"zHBMywMJRO+0wnxx6GWUIRohikboirvYbvRzvOeaATI=\""
+          "Value": "\"YHg7rX09SZCmyQm0IYNEGiFUnFa7kil/dLuxoMuaq8Q=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 18 Mar 2025 14:00:15 GMT"
+          "Value": "Tue, 18 Mar 2025 14:11:15 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -13230,7 +13230,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-zHBMywMJRO+0wnxx6GWUIRohikboirvYbvRzvOeaATI="
+          "Value": "sha256-YHg7rX09SZCmyQm0IYNEGiFUnFa7kil/dLuxoMuaq8Q="
         }
       ]
     },
@@ -13245,7 +13245,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "18197"
+          "Value": "19733"
         },
         {
           "Name": "Content-Type",
@@ -13253,11 +13253,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"0nlSHeQ6HnAPIDFNjghqRj6/o96BWfeaMShn6N4AXc8=\""
+          "Value": "\"WdG7UFCK4YcbaPdgOuCBR8f/AZN+4knjXagMoOaX7FY=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 18 Mar 2025 14:00:15 GMT"
+          "Value": "Tue, 18 Mar 2025 14:11:15 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -13267,18 +13267,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-0nlSHeQ6HnAPIDFNjghqRj6/o96BWfeaMShn6N4AXc8="
+          "Value": "sha256-WdG7UFCK4YcbaPdgOuCBR8f/AZN+4knjXagMoOaX7FY="
         }
       ]
     },
     {
       "Route": "_framework/ChinookAlbumManager.wasm",
-      "AssetFile": "C:\\Users\\gamer\\Desktop\\CourseworkTwo-Working\\project\\ChinookAlbumManager\\obj\\Debug\\net8.0\\compressed\\od7mh8v01y-uhxdz7xk3j.gz",
+      "AssetFile": "C:\\Users\\gamer\\Desktop\\CourseworkTwo-Working\\project\\ChinookAlbumManager\\obj\\Debug\\net8.0\\compressed\\od7mh8v01y-909n4gkhfj.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000128567755"
+          "Quality": "0.000120700060"
         }
       ],
       "ResponseHeaders": [
@@ -13288,15 +13288,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "7777"
+          "Value": "8284"
         },
         {
           "Name": "ETag",
-          "Value": "\"LH47DnfiozVYPHEvL7GfAeGNwmz98k/dK5AegydxqkM=\""
+          "Value": "\"iHsumYLnbOLoXS2Ggi6bGW68ddn2ByGJJLn37p4Z9sI=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 18 Mar 2025 14:00:15 GMT"
+          "Value": "Tue, 18 Mar 2025 14:11:15 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -13316,19 +13316,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"0nlSHeQ6HnAPIDFNjghqRj6/o96BWfeaMShn6N4AXc8=\""
+          "Value": "W/\"WdG7UFCK4YcbaPdgOuCBR8f/AZN+4knjXagMoOaX7FY=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-0nlSHeQ6HnAPIDFNjghqRj6/o96BWfeaMShn6N4AXc8="
+          "Value": "sha256-WdG7UFCK4YcbaPdgOuCBR8f/AZN+4knjXagMoOaX7FY="
         }
       ]
     },
     {
       "Route": "_framework/ChinookAlbumManager.wasm.gz",
-      "AssetFile": "C:\\Users\\gamer\\Desktop\\CourseworkTwo-Working\\project\\ChinookAlbumManager\\obj\\Debug\\net8.0\\compressed\\od7mh8v01y-uhxdz7xk3j.gz",
+      "AssetFile": "C:\\Users\\gamer\\Desktop\\CourseworkTwo-Working\\project\\ChinookAlbumManager\\obj\\Debug\\net8.0\\compressed\\od7mh8v01y-909n4gkhfj.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -13337,7 +13337,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "7777"
+          "Value": "8284"
         },
         {
           "Name": "Content-Type",
@@ -13345,11 +13345,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"LH47DnfiozVYPHEvL7GfAeGNwmz98k/dK5AegydxqkM=\""
+          "Value": "\"iHsumYLnbOLoXS2Ggi6bGW68ddn2ByGJJLn37p4Z9sI=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 18 Mar 2025 14:00:15 GMT"
+          "Value": "Tue, 18 Mar 2025 14:11:15 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -13367,7 +13367,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-LH47DnfiozVYPHEvL7GfAeGNwmz98k/dK5AegydxqkM="
+          "Value": "sha256-iHsumYLnbOLoXS2Ggi6bGW68ddn2ByGJJLn37p4Z9sI="
         }
       ]
     },

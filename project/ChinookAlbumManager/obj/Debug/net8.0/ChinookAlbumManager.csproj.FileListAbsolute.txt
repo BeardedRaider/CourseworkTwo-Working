@@ -2990,9 +2990,6 @@ C:\Users\gamer\Desktop\CourseworkTwo-Working\project\ChinookAlbumManager\obj\Deb
 C:\Users\gamer\Desktop\CourseworkTwo-Working\project\ChinookAlbumManager\obj\Debug\net8.0\compressed\s8fq0by6vp-tptq2av103.gz
 C:\Users\gamer\Desktop\CourseworkTwo-Working\project\ChinookAlbumManager\obj\Debug\net8.0\compressed\rejeqq5rxo-lfu7j35m59.gz
 C:\Users\gamer\Desktop\CourseworkTwo-Working\project\ChinookAlbumManager\obj\Debug\net8.0\compressed\dl530m443m-oyz0vx2fzb.gz
-C:\Users\gamer\Desktop\CourseworkTwo-Working\project\ChinookAlbumManager\obj\Debug\net8.0\compressed\od7mh8v01y-uhxdz7xk3j.gz
-C:\Users\gamer\Desktop\CourseworkTwo-Working\project\ChinookAlbumManager\obj\Debug\net8.0\compressed\telbm8rx2f-qx1oubj8sk.gz
-C:\Users\gamer\Desktop\CourseworkTwo-Working\project\ChinookAlbumManager\obj\Debug\net8.0\compressed\09ho8oaqb2-vu5tuu1sgk.gz
 C:\Users\gamer\Desktop\CourseworkTwo-Working\project\ChinookAlbumManager\obj\Debug\net8.0\staticwebassets.build.json
 C:\Users\gamer\Desktop\CourseworkTwo-Working\project\ChinookAlbumManager\obj\Debug\net8.0\staticwebassets.development.json
 C:\Users\gamer\Desktop\CourseworkTwo-Working\project\ChinookAlbumManager\obj\Debug\net8.0\staticwebassets.build.endpoints.json
@@ -3007,3 +3004,6 @@ C:\Users\gamer\Desktop\CourseworkTwo-Working\project\ChinookAlbumManager\obj\Deb
 C:\Users\gamer\Desktop\CourseworkTwo-Working\project\ChinookAlbumManager\obj\Debug\net8.0\refint\ChinookAlbumManager.dll
 C:\Users\gamer\Desktop\CourseworkTwo-Working\project\ChinookAlbumManager\obj\Debug\net8.0\ChinookAlbumManager.pdb
 C:\Users\gamer\Desktop\CourseworkTwo-Working\project\ChinookAlbumManager\obj\Debug\net8.0\ref\ChinookAlbumManager.dll
+C:\Users\gamer\Desktop\CourseworkTwo-Working\project\ChinookAlbumManager\obj\Debug\net8.0\compressed\od7mh8v01y-909n4gkhfj.gz
+C:\Users\gamer\Desktop\CourseworkTwo-Working\project\ChinookAlbumManager\obj\Debug\net8.0\compressed\telbm8rx2f-yh9f8k81xc.gz
+C:\Users\gamer\Desktop\CourseworkTwo-Working\project\ChinookAlbumManager\obj\Debug\net8.0\compressed\09ho8oaqb2-tjoxundkq0.gz

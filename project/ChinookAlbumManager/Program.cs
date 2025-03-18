@@ -1,11 +1,14 @@
-using Microsoft.AspNetCore.Components.Web;
-using Microsoft.AspNetCore.Components.WebAssembly.Hosting;
 using ChinookAlbumManager;
+using ChinookAlbumManager.Data;
+using Microsoft.AspNetCore.Components.WebAssembly.Hosting;
+using Microsoft.EntityFrameworkCore;
+using Microsoft.Extensions.DependencyInjection;
 
 var builder = WebAssemblyHostBuilder.CreateDefault(args);
-builder.RootComponents.Add<App>("#app");
-builder.RootComponents.Add<HeadOutlet>("head::after");
+builder.RootComponents.Add<App>("#app");  // ✅ Ensure App component is added
 
-builder.Services.AddScoped(sp => new HttpClient { BaseAddress = new Uri(builder.HostEnvironment.BaseAddress) });
+// Register SQLite Database Context
+builder.Services.AddDbContextFactory<ChinookDbContext>(options =>
+    options.UseSqlite("Data Source=chinook.db"));
 
 await builder.Build().RunAsync();
