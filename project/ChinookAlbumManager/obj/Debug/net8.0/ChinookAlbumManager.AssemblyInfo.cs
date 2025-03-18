@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ChinookAlbumManager")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4d7dd2283aed1cdb6ecde33c297ce4720c776129")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3a7bb61af47844c7fcc6d4682ad962f70c3be502")]
 [assembly: System.Reflection.AssemblyProductAttribute("ChinookAlbumManager")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ChinookAlbumManager")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
