@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\gamer\\Desktop\\UNI YR 3\\UNI YR 3\\T2\\2 Wed PM Int Scripting\\Code\\CourseworkTwo Working\\project\\ChinookAlbumManager\\ChinookAlbumManager.csproj": {}
+    "C:\\Users\\gamer\\Desktop\\CourseworkTwo-Working\\project\\ChinookAlbumManager\\ChinookAlbumManager.csproj": {}
   },
   "projects": {
-    "C:\\Users\\gamer\\Desktop\\UNI YR 3\\UNI YR 3\\T2\\2 Wed PM Int Scripting\\Code\\CourseworkTwo Working\\project\\ChinookAlbumManager\\ChinookAlbumManager.csproj": {
+    "C:\\Users\\gamer\\Desktop\\CourseworkTwo-Working\\project\\ChinookAlbumManager\\ChinookAlbumManager.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\gamer\\Desktop\\UNI YR 3\\UNI YR 3\\T2\\2 Wed PM Int Scripting\\Code\\CourseworkTwo Working\\project\\ChinookAlbumManager\\ChinookAlbumManager.csproj",
+        "projectUniqueName": "C:\\Users\\gamer\\Desktop\\CourseworkTwo-Working\\project\\ChinookAlbumManager\\ChinookAlbumManager.csproj",
         "projectName": "ChinookAlbumManager",
-        "projectPath": "C:\\Users\\gamer\\Desktop\\UNI YR 3\\UNI YR 3\\T2\\2 Wed PM Int Scripting\\Code\\CourseworkTwo Working\\project\\ChinookAlbumManager\\ChinookAlbumManager.csproj",
+        "projectPath": "C:\\Users\\gamer\\Desktop\\CourseworkTwo-Working\\project\\ChinookAlbumManager\\ChinookAlbumManager.csproj",
         "packagesPath": "C:\\Users\\gamer\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\gamer\\Desktop\\UNI YR 3\\UNI YR 3\\T2\\2 Wed PM Int Scripting\\Code\\CourseworkTwo Working\\project\\ChinookAlbumManager\\obj\\",
+        "outputPath": "C:\\Users\\gamer\\Desktop\\CourseworkTwo-Working\\project\\ChinookAlbumManager\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\gamer\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -37,7 +37,8 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        }
+        },
+        "SdkAnalysisLevel": "9.0.100"
       },
       "frameworks": {
         "net8.0": {
@@ -69,13 +70,13 @@
             "Microsoft.NET.ILLink.Tasks": {
               "suppressParent": "All",
               "target": "Package",
-              "version": "[8.0.14, )",
+              "version": "[8.0.12, )",
               "autoReferenced": true
             },
             "Microsoft.NET.Sdk.WebAssembly.Pack": {
               "suppressParent": "All",
               "target": "Package",
-              "version": "[8.0.14, )",
+              "version": "[9.0.1, )",
               "autoReferenced": true
             }
           },
@@ -93,7 +94,7 @@
           "downloadDependencies": [
             {
               "name": "Microsoft.NETCore.App.Runtime.Mono.browser-wasm",
-              "version": "[8.0.14, 8.0.14]"
+              "version": "[8.0.12, 8.0.12]"
             }
           ],
           "frameworkReferences": {
@@ -101,7 +102,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.407/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102/PortableRuntimeIdentifierGraph.json"
         }
       },
       "runtimes": {

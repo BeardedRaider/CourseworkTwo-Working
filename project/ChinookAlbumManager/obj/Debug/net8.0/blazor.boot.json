@@ -1,21 +1,22 @@
 {
   "mainAssemblyName": "ChinookAlbumManager",
   "resources": {
-    "hash": "sha256-u11P0fVYGETywGFt9mEzy520im9PZrYeydvc6HYccD8=",
+    "hash": "sha256-FY2wmgINo+5RdbpNs6jMk6d+NJOjOc9Sx9EDt994FfM=",
     "jsModuleNative": {
-      "dotnet.native.8.0.14.4u6uylzijl.js": "sha256-DTUQS6Jc6BNnS7sYYezFfaUKVmQq0/lanhQuJfygH/k="
+      "dotnet.native.js": "sha256-B6DNRvFeCUi3jbx9uKpuj+hV9cN0KG4RdZj1FgBZwj8="
     },
     "jsModuleRuntime": {
-      "dotnet.runtime.8.0.14.eevyoxfgbv.js": "sha256-44Vu7OSX4JP89eoc3oTYbYfC5C7USoIWuCw1W9IG6N4="
+      "dotnet.runtime.js": "sha256-aTAnT1r/EAWev8oI/mTFI9nH3RsfA5M822bNiGhok6U="
     },
     "wasmNative": {
-      "dotnet.native.wasm": "sha256-mICh/Z0HwmHNDnkBnBbRTyDkRYBu3OBkhmuy2F7aUSU="
+      "dotnet.native.wasm": "sha256-4X9eav+Ak45oe3jDiM7H2gSxg1ZRzmhn9QfZURenUbE="
     },
     "icu": {
       "icudt_CJK.dat": "sha256-SZLtQnRc0JkwqHab0VUVP7T3uBPSeYzxzDnpxPpUnHk=",
       "icudt_EFIGS.dat": "sha256-8fItetYY8kQ0ww6oxwTLiT3oXlBwHKumbeP2pRF4yTc=",
       "icudt_no_CJK.dat": "sha256-L7sV7NEYP37/Qr2FPCePo5cJqRgTXRwGHuwF5Q+0Nfs="
     },
+    "coreAssembly": {},
     "assembly": {
       "Humanizer.wasm": "sha256-4NbSboZzzP9nikRtXapUZNzOyITt7ht9TNqCIQHr5OE=",
       "Microsoft.AspNetCore.Authorization.wasm": "sha256-8ofzUl971/DaUkiDED+dHwV16p+NZPuEzF3Y4A1Clgs=",
@@ -236,10 +237,10 @@
       "mscorlib.wasm": "sha256-8L4O6tiH48gEZfzf0Y84J01S+3eEG59Bo5bfpH2H+9Y=",
       "netstandard.wasm": "sha256-sEvS/ZjfGhf1dLglmk72ysM50loOygjujJ/J5OhFLEw=",
       "System.Private.CoreLib.wasm": "sha256-BhHYDTpkph+YJOQuAlv6aSrvjTVX0WLTIDBXecinFXo=",
-      "ChinookAlbumManager.wasm": "sha256-Ydo8eAQQepcYNSi4FlIo/vVFqzpMIwerwdOiuRvHynQ="
+      "ChinookAlbumManager.wasm": "sha256-0nlSHeQ6HnAPIDFNjghqRj6/o96BWfeaMShn6N4AXc8="
     },
     "pdb": {
-      "ChinookAlbumManager.pdb": "sha256-ymOATswu6XF2F4zuvkvOXLKxH73tVL7QxAGGZCoLZ5I="
+      "ChinookAlbumManager.pdb": "sha256-zjkjOwXSulQMh6h5SuLJron9F1tj2qCA9FCtWdEa+lA="
     },
     "satelliteResources": {
       "cs": {
